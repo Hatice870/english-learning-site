@@ -1,8 +1,0 @@
-echo off 
-title diyalog 
-echo what is your name?
-set\p name
-echo surname?
-echo hello%name% %surname%
-echo how are you
-set/p answer=  
